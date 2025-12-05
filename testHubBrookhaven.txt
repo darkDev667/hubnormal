@@ -1,4 +1,4 @@
-local Libary = loadstring(game:HttpGet("https://raw.githubusercontent.com/ndark5243-arch/Libraryhanzodred/refs/heads/main/Main.txt"))()
+local Libary = loadstring(game:HttpGet("https://raw.githubusercontent.com/darkDev667/Painel-/refs/heads/main/Redzhubuitest.txt"))()
 
 
 workspace.FallenPartsDestroyHeight = -math.huge
@@ -5034,3 +5034,4 @@ Tab12:AddButton({
 })
 
 print("Hanzod Client Brookhaven carregado com sucesso!")
+
