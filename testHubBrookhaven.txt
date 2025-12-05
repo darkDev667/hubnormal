@@ -91,15 +91,15 @@ local Paragraph = Tab1:AddParagraph({"Execultor", executorName})
 
 local Section = Tab1:AddSection({"versao do Hub 3.7"})
 
-local Paragraph = Tab1:AddParagraph({"Criadores", "Void777 \n ?????"})
+local Paragraph = Tab1:AddParagraph({"Criadores", "cra7zy"})
 
 
   
   Tab1:AddButton({
     Name = " - Copiar @ do TikTok",
     Callback = function()
-      setclipboard("@MrsVoid777") -- Copia o @
-      setclipboard("https://www.tiktok.com/@Void777?_t=ZM-8wFjhRHkmOd&_r=1") -- Copia o link também, se quiser só o @, remova esta linha
+      setclipboard("@") -- Copia o @
+      setclipboard("depois eu crio") -- Copia o link também, se quiser só o @, remova esta linha
       
     end
   })
@@ -5034,4 +5034,5 @@ Tab12:AddButton({
 })
 
 print("Hanzod Client Brookhaven carregado com sucesso!")
+
 
